@@ -68,4 +68,4 @@ Place the iris_model.pkl file in your Django project directory.
 
 
 
- ![WhatsApp Image 2024-12-12 at 22 32 55_5e884c4a](https://github.com/user-attachments/assets/9a7638fe-b360-4a3d-84fb-eb6c4b0f8947)
+ 
